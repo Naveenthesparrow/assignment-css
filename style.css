@@ -1,0 +1,66 @@
+
+.form{
+
+    width: 700px;
+    height: 700px;
+}
+.form text{
+    text-align: center;
+    margin: 40px 0;
+}
+.form-text h1 span img{
+    margin: 0 10px;
+}
+.form-text p{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+}
+.form-text h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+.main-form div{
+    display: inline-block;
+    margin: 10px 20px;
+    width: 300px;
+}
+.main-form div input{
+    width: 100%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid #ffca00;
+    font-size: 20px;
+   
+    outline: none;
+    padding: 3px 0 3px 10px;
+    margin-top: 10px;
+}   
+.main-form div select{
+    width: 100%;
+    background: none;
+    border: 1px solid #ffca00;
+    font-size: 20px;
+    justify-content: center;
+    padding: 3px 0 3px 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3px 0 3px 10px;
+    margin-top: 10px;;
+}
+.main-form div span{
+    width: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    justify-content: center;    
+}
+body{
+    text-align: center;
+    background-image: url("https://i.pinimg.com/236x/c3/18/79/c3187949d5aa89214f72e0867fbdf7c9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
